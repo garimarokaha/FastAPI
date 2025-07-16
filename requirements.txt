@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic #data ko validation handle garchha
+numpy
+joblib
+scikit-learn
