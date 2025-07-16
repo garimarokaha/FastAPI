@@ -4,3 +4,4 @@ pydantic #data ko validation handle garchha
 numpy
 joblib
 scikit-learn
+jinja2
